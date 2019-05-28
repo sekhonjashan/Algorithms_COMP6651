@@ -1,0 +1,34 @@
+
+Prerequisites:
+
+cmake, opencv
+
+
+To compile in the lab
+——————————
+
+run ./lab_config.sh
+cd build
+make
+
+To compile on your own machine
+———
+
+cd build/
+cmake ../
+make
+
+
+To run
+——
+
+In the build folder:
+./sc image1 new_width new_height image2
+=================================================================
+
+Please note, There are two main files in the src. 
+	1. main.cpp - Runs successful min cut on tested images via ssh in very reasonable time. Also runs on personal computers.
+	2. mainSimple.cpp - Runs successful min cut on simpler images via lab machines or personal computers.
+
+
+ 

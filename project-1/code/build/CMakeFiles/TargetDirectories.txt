@@ -1,0 +1,3 @@
+/home/s/s_asha/Desktop/JashanSingh40049014/code/build/CMakeFiles/rebuild_cache.dir
+/home/s/s_asha/Desktop/JashanSingh40049014/code/build/CMakeFiles/edit_cache.dir
+/home/s/s_asha/Desktop/JashanSingh40049014/code/build/CMakeFiles/seg.dir
